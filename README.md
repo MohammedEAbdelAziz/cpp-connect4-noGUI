@@ -9,7 +9,7 @@ This was designed as part of an assignment focusing on OOP and Code reuseability
 If you want to build it yourself you need:\
     1- Any C++ compiler (e.g. g++)\
     2- Make on Linux/Mac, Ninja on Windows\
-    3- CMake\
+    3- CMake
 
 
 Building:
