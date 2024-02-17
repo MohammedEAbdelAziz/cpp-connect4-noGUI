@@ -5,6 +5,7 @@ FCAI OOP Assignment
 
 This was designed as part of an assignment focusing on OOP and Code reuseability using C++
 
+Download from [here](https://github.com/MohammedEAbdelAziz/cpp-connect4-noGUI/releases/download/mainrelease/buildv1.zip)
 
 If you want to build it yourself you need:\
     1- Any C++ compiler (e.g. g++)\
